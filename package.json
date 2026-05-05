@@ -1,0 +1,6 @@
+{
+  "name": "agent-jala-quiz-de-conocimientos-generale-mos15kzk",
+  "version": "1.0.0",
+  "description": "Proyecto de Jala [Gen30]: quiz de conocimientos generales con puntuacion",
+  "main": "index.js"
+}
